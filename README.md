@@ -1,6 +1,6 @@
-# Peliohjelmointi-harjoitustyö
+# Stranded On Mars
 
-Peliohjelmointi kurssin lopputyö. Peli testattavissa Unityn WebGL ja Standalone PC buildinä.
+Peli testattavissa Unityn WebGL ja Standalone PC buildinä.
 
 :warning: **Huomio**: Peli on sen verran graafisesti vaativa, joten se toimii parhaiten erillisellä näytönohjaimella. Se saattaa kyllä myös toimia tehokkaammilla integroiduilla näytönohjaimilla.
 
